@@ -1,3 +1,0 @@
-# SWEMatch
-
-## Skin Scanning Website 
